@@ -8,7 +8,7 @@ CPIPA stands for  C urrent
                   IP 
                   A ddress
 
-The program is "scratch-the-itch-ware".
+The program is "scratch-the-itch-ware", and is released under the GPL v2.
 
 It came out of my need to get back to my home server, when the server is behind a dynamic IP address.
 
